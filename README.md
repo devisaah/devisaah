@@ -1,41 +1,58 @@
-<h1 align="center">Hi 👋, I'm Isadora Dantas</h1>
-<h3 align="center">A passionate backend developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devisaah&label=Profile%20views&color=0e75b6&style=flat" alt="devisaah" /> </p>
+![](https://komarev.com/ghpvc/?username=devisaah&color=006bed)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devisaah" alt="devisaah" /></a> </p>
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🔭 I’m currently working on [Dunnas Tecnologia](https://dunnastecnologia.com.br)
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **PÓS EM DESENVOLVIMENTO DE SOFTWARE COM METODOLOGIAS ÁGEIS** na <a href="https://www.unp.br">UNIVERSIDADE POTIGUAR</a>.
+- 💼 &nbsp; Trabalhando como **ANALISTA DE SISTEMAS NIVEL I** na <a href="https://dunnastecnologia.com.br">DUNNAS TECNOLOGIA</a>
+- 🌱 &nbsp; Aprendendo mais sobre **FLUTTER E TDD COM RSPEC**.
 
-- 🌱 I’m currently learning **Flutter and TDD with Rspec**
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-- 👨‍💻 All of my projects are available at [devisaah.com.br/#portfolio](devisaah.com.br/#portfolio)
+**Aplicações e Dados**
+  
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby)
+  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-333333?style=flat&logo=ruby-on-rails)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-- 📝 I regularly write articles on [devisaah.com.br/#blog](devisaah.com.br/#blog)
+**Utilidades**
 
-- 💬 Ask me about **ruby and ruby on rails**
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- 📫 How to reach me **contato@devisaah.com.br**
+**DevOps**
 
-- 📄 Know about my experiences [devisaah.com.br/#sobre](devisaah.com.br/#sobre)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  
 
-- ⚡ Fun fact **I think i am funny**
+**Ferramentas de Desenvolvimento**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/isaahmdantas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaahmdantas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isadoramdantas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isadoramdantas" height="30" width="40" /></a>
-<a href="https://fb.com/isaahmdantas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isaahmdantas" height="30" width="40" /></a>
-<a href="https://instagram.com/devisaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devisaah" height="30" width="40" /></a>
-<a href="https://www.behance.net/devisaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="devisaah" height="30" width="40" /></a>
-</p>
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devisaah&show_icons=true&locale=en&layout=compact" alt="devisaah" /></p>
+<a href="https://github.com/devisaah">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devisaah&theme=dracula&show_icons=true" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devisaah&show_icons=true&locale=en" alt="devisaah" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devisaah&" alt="devisaah" /></p>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
+[![Linkedin: Isadora Dantas](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadoramdantas/)](https://www.linkedin.com/in/isadoramdantas/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devisaah@gmail.com)](mailto:devisaah@gmail.com)
+[![GitHub Isadora Dantas]( https://img.shields.io/github/followers/devisaah?label=follow&style=social)](https://github.com/devisaah)
